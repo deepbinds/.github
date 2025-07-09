@@ -26,6 +26,10 @@ Code for the quiet power of self-expression.
 ### 👤 devblac (Julian Blacher)  
 Lead engineer, founder of Deepbinds, and the connective tissue behind the vision.
 
+### 🎮 Playforge-ai
+Gamified systems, token dynamics, and playful digital economies.
+Designing mechanisms where joy meets utility.
+
 ---
 
 ## 🛠 Projects in Progress
